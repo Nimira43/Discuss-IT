@@ -8,6 +8,10 @@
   font-weight: 300;
 }
 
+body {
+  background-color: #111;
+}
+
 .logo {
   font-family: 'Caveat', cursive;
 }
